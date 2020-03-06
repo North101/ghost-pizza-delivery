@@ -1,0 +1,14 @@
+name: pizza_ghost_delivery
+description: 
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: Alexander Wilde <alexander@salesseek.com>
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  tuple: ^1.0.3
+
+dev_dependencies:
+  pedantic: ^1.8.0+1
